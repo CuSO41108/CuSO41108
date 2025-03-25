@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on open-source projects, especially in areas related to software development and system optimization. 
-- 📫 How to reach me QQ:1737268347
+- 📫 How to reach me ：
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
