@@ -2,7 +2,6 @@
 
 - 🎯 Focus: AI Agents · Full-stack
 - 📍 Guangzhou, China
-- 🔗 [cuso41108.github.io](https://cuso41108.github.io/)
 
 ---
 
